@@ -1,4 +1,5 @@
-# Simple-Linear-Regression<br><br>
+## Currently in this section, a simple linear regression model is built to predict the amount of salary based on User- Experience.
+
 You will learn-
 - What is regression?
 - Types of Regression.
@@ -13,3 +14,4 @@ Python Libraries used:
 2. Matplotlib
 3. Pandas
 4. Numpy
+

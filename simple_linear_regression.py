@@ -15,7 +15,7 @@ import pandas as pd
                                                       #Loading-the-dataset
 
 
-dataset = pd.read_csv('C://Users//HP//Desktop//Machine Learning A-Z//Part 2 - Regression//Section 4 - Simple Linear Regression//Salary_Data.csv')
+dataset = pd.read_csv('Path to dataset')
 # Extracting the independent variables and dependent variables from the dataset
 X = dataset.iloc[:,:-1].values
 y= dataset.iloc[:, 1].values

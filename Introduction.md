@@ -11,7 +11,7 @@ Follow us: Investopedia on Facebook
 ***
 Linear Regression can be of different types as:
 - <font color= 'blue'>Simple Linear Regression</font>
-- <font color= 'blue'>Multiple Linear Regression</font>
+- <font color= 'blue'>Multiple Linear Regression, etc.</font>
 
 Here we will only discuss about Simple Linear Regression.<br>
 Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables:
